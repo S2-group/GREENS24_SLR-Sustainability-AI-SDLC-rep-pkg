@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10887409.svg)](https://doi.org/10.5281/zenodo.10887409)
+
 # GREENS24_SLR-Sustainability-AI-SDLC-rep-pkg
 This repository is a companion page for the following research accepted at the 8th International Workshop on Green and Sustainable Software (GREENS’24):
 
